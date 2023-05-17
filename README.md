@@ -1,4 +1,4 @@
-### bustamanteg README 👋
+### bustamanteg README 
 
 
 PhD candidate in Experimental Condensed Mater Physics
